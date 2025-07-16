@@ -1,4 +1,8 @@
+
+
 # Morphogenesis
+
+![Modelling Self-Assembly of Tissues in Silico](modelling_self-assembly_of_tissues_in_silico_poster.jpg)
 
 ## Abstract
 
