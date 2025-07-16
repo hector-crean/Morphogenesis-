@@ -4,6 +4,8 @@
 
 ![Modelling Self-Assembly of Tissues in Silico](modelling_self-assembly_of_tissues_in_silico_poster.jpg)
 
+**📄 [Read the Full Thesis: Cell_Sorting.pdf](Cell_Sorting.pdf)**
+
 ## Abstract
 
 Genetically encoded algorithms control individual and collective cell behaviour. We aim to reconstruct these programs in silico to understand their logic. In vitro and in vivo studies have identified many genes that control cell-cell signalling and cell morphology. Most development systems, however, use contact cell-cell signalling interactions to induce morphological responses. We consequently explored whether simple synthetic circuits, in which morphological changes are driven by contact cell-cell signalling interactions, could suffice to generate self-organizing multicellular structures.
